@@ -1,0 +1,12 @@
+INSERT INTO brands (name, countryCode, tax)
+VALUES ('Alfa', 'SK', '20'),
+('Dunlop', 'SK', '20'),
+('Everlast', 'SK', '20'),
+('Lendlenser', 'SK', '20'),
+('OCÚN', 'SK', '20'),
+('Roeckl', 'SK', '20'),
+('Tretorn', 'SK', '20'),
+('Victor', 'SK', '20'),
+('Warrior', 'SK', '20'),
+('XISS', 'SK', '20'),
+('BAAGL', 'SK', '20');
